@@ -112,6 +112,19 @@ source("ESMQ12.R")  # Simulation
 
 ---
 
+
+## Stack technique
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![lavaan](https://img.shields.io/badge/lavaan-CFA%20·%20SEM-blue?style=flat-square)
+![plspm](https://img.shields.io/badge/plspm-PLS--PM-green?style=flat-square)
+![psych](https://img.shields.io/badge/psych-Alpha%20·%20ACP-orange?style=flat-square)
+![ggplot2](https://img.shields.io/badge/ggplot2-visualization-red?style=flat-square)
+![factoextra](https://img.shields.io/badge/factoextra-CLV%20·%20dendrogrammes-purple?style=flat-square)
+![semPlot](https://img.shields.io/badge/semPlot-graphes%20SEM-darkblue?style=flat-square)
+
+---
+
 ## Auteur
 
 **KOURAOGO Emmanuel** — M2 IMSD · Paris-Saclay  
