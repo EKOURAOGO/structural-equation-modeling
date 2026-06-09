@@ -1,7 +1,7 @@
-# Structural Equation Modeling (SEM) — ECSI & Russet
+# Structural Equation Modeling (SEM) - ECSI & Russet
 
 > Modèles à équations structurelles en R · PLS-PM · LISREL · lavaan · RFPC · CLV  
-> Données de téléphonie mobile (modèle ECSI simplifié) — Master 2 IMSD · Paris-Saclay · 2025-2026
+> Données de téléphonie mobile (modèle ECSI simplifié) 
 
 ---
 
@@ -53,12 +53,12 @@ structural-equation-modeling/
 
 ## Méthodes implémentées
 
-- **LISREL** (lavaan, MLR) — CFI, TLI, RMSEA, SRMR, AVE, Fornell-Larcker, HTMT
-- **PLS-PM** (plspm) — Mode A réflexif, bootstrap, R², GOF, outer weights
-- **RFPC** — ACP bloc + régressions structurelles sur scores factoriels
-- **CLV** — Classification hiérarchique sur 23 variables manifestes
-- **Modèle expert** — Réaffectation de CUSA3 → bloc PERV
-- **Simulation** — Validation par récupération des paramètres vrais
+- **LISREL** (lavaan, MLR) - CFI, TLI, RMSEA, SRMR, AVE, Fornell-Larcker, HTMT
+- **PLS-PM** (plspm) - Mode A réflexif, bootstrap, R², GOF, outer weights
+- **RFPC** - ACP bloc + régressions structurelles sur scores factoriels
+- **CLV** - Classification hiérarchique sur 23 variables manifestes
+- **Modèle expert** - Réaffectation de CUSA3 → bloc PERV
+- **Simulation** - Validation par récupération des paramètres vrais
 
 ---
 
@@ -127,9 +127,8 @@ source("ESMQ12.R")  # Simulation
 
 ## Auteur
 
-**KOURAOGO Emmanuel** — M2 IMSD · Paris-Saclay  
-Data Scientist & Data Analyst · DREES
+**KOURAOGO Emmanuel**   
+Data Scientist & Data Analyst 
 
 [![GitHub](https://img.shields.io/badge/GitHub-EKOURAOGO-181717?style=flat-square&logo=github)](https://github.com/EKOURAOGO)
 
-*Encadrant : Christian DERQUENNE · 2025-2026*
